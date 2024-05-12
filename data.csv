@@ -1,0 +1,250 @@
+﻿No.,Category,Supplier, Total Spend ,Geo-Coverage,Available Capacity,Switching Costs,Substitution Options,Savings Opportunity,Integrated Solutions,Leadership,Innovation,Technology,Compilance,Customer Services
+1,Office Supplies,OFFICE INC," $2,072,047 ",1,5,5,6,2,5,8,5,5,6,6
+2,Office Supplies,STAPLES & SCHOKS," $1,340,109 ",8,9,6,10,10,4,9,10,9,10,7
+3,Office Supplies,INDO-OFF," $1,306,916 ",3,2,3,5,4,6,7,6,6,5,4
+4,Office Supplies,TWIST & SHINE PRODUCTS," $390,824 ",9,3,8,7,7,3,6,3,7,3,1
+5,Office Supplies,GUERNSEY BEST PRODUCTS," $359,192 ",8,4,6,3,2,5,3,2,4,5,4
+6,Office Supplies,MY OFFICE," $313,967 ",4,9,10,3,4,2,3,3,9,4,10
+7,Office Supplies,OFFICE OFFICE ," $227,992 ",1,6,2,9,7,8,9,9,1,10,5
+8,Office Supplies,GREEN OFFICE," $188,284 ",3,9,2,7,1,3,10,9,4,4,7
+9,Office Supplies,OFFICE ADVANTAGE," $164,066 ",3,7,5,2,7,4,9,9,10,10,1
+10,Office Supplies,GRAND ," $144,255 ",4,6,5,3,3,5,8,6,6,8,5
+11,Office Supplies,CRUMB ," $134,738 ",4,2,4,2,6,1,9,1,3,9,7
+12,Office Supplies,BINDING AND PRINTING," $118,897 ",3,10,3,5,7,10,5,10,1,10,2
+13,Office Supplies,RELY SALES ," $111,400 ",8,10,1,3,9,2,9,9,2,9,1
+14,Office Supplies,SPIRAL ," $111,359 ",9,6,5,3,1,10,8,9,8,2,9
+15,Office Supplies,LINE," $85,876 ",6,4,5,6,4,6,2,3,7,10,3
+16,Office Supplies,Y MARKETPLACE," $77,938 ",7,1,3,5,9,9,1,7,4,7,7
+17,Office Supplies,MASON," $75,292 ",9,6,4,5,3,4,6,5,8,8,2
+18,Office Supplies,GARVEYS OFFICE," $62,728 ",5,7,4,8,10,10,8,8,7,8,6
+19,Office Supplies,UPM," $59,365 ",8,7,7,8,1,9,7,1,8,3,1
+20,Office Supplies,TEJAS PRODUCTS," $50,547 ",3,6,2,5,3,4,5,1,6,2,8
+21,Office Supplies,CPI POINT," $49,397 ",2,4,9,5,2,8,7,7,3,5,6
+22,Office Supplies,OEDGE," $40,505 ",8,7,4,10,7,2,9,3,10,4,2
+23,Office Supplies,RIOT IMAGING," $39,824 ",10,9,3,2,1,1,7,9,4,3,3
+24,Office Supplies,POSTER CENTER," $39,406 ",5,4,7,6,1,1,3,10,5,6,1
+25,Office Supplies,OFFICE SYSTEMS," $34,108 ",9,8,7,3,4,1,4,7,8,5,4
+26,Office Supplies,CONNOR," $33,003 ",8,6,10,9,2,8,10,7,4,10,7
+27,Office Supplies,HUMANS," $32,078 ",10,5,10,4,3,5,8,10,1,3,6
+28,Office Supplies,MAC SOLUTIONS," $25,773 ",7,6,1,9,3,5,6,3,3,9,10
+29,Office Supplies,RUSHK," $24,789 ",1,2,9,10,5,4,1,7,10,8,9
+30,Office Supplies,EXCE," $23,639 ",3,8,8,4,7,3,3,2,6,3,9
+31,Office Supplies,PROST," $22,190 ",10,2,5,9,2,9,3,9,9,8,10
+32,Office Supplies,CORPORATE PRINTING," $22,051 ",3,7,7,7,6,2,8,10,3,3,1
+33,Office Supplies,BUCKLEY," $19,037 ",10,3,2,2,5,2,6,10,1,5,5
+34,Office Supplies,TSERVICES," $17,760 ",6,5,4,8,6,9,7,6,7,7,1
+35,Office Supplies,REGENCY PRODUCTS," $17,265 ",7,7,10,1,10,4,2,1,7,10,3
+36,Office Supplies,CYMBA," $16,821 ",10,2,2,7,3,3,4,4,4,6,6
+37,Office Supplies,VILL PARK," $16,791 ",10,2,7,7,10,4,9,4,2,5,9
+38,Office Supplies,OFFIC IMAG," $15,067 ",10,1,4,9,3,4,4,1,5,6,5
+39,Office Supplies,HEADSE," $12,053 ",10,10,8,1,2,10,10,5,3,5,10
+40,Office Supplies,OFFICE DEPOT," $12,021 ",6,9,8,6,5,8,3,9,6,9,8
+41,Office Supplies,GREENWOOD ," $6,981 ",4,5,1,9,8,1,1,10,1,9,3
+42,Office Supplies,BINDINGS," $6,770 ",5,4,9,9,6,5,3,2,1,3,8
+43,Office Supplies,SOURCE INC," $6,749 ",1,2,6,9,10,7,8,3,2,1,2
+44,Office Supplies,WAYFA," $6,640 ",2,7,7,4,7,10,6,1,2,6,6
+45,Office Supplies,HIGHTO," $6,619 ",1,7,1,3,1,4,10,1,8,10,8
+46,Office Supplies,CLEANING ," $6,222 ",1,6,5,8,6,8,2,4,4,6,3
+47,Office Supplies,DELU," $5,932 ",6,6,6,7,7,6,1,4,3,6,8
+48,Office Supplies,CALIFORNIA COMMERCE," $4,918 ",6,1,8,4,3,6,3,3,3,6,8
+49,Office Supplies,SOUTHPAW ," $4,743 ",5,1,7,8,2,5,1,10,3,2,8
+50,Office Supplies,PROJECTOR ," $2,915 ",10,7,10,1,9,4,1,2,1,3,5
+51,Office Supplies,COUNTY TV ," $2,317 ",9,8,5,9,9,9,2,6,2,7,3
+52,Office Supplies,SAMS CLUB DIRECT," $2,216 ",8,9,10,3,1,8,1,9,3,4,8
+53,Office Supplies,GATEWAY PRINTING ," $1,896 ",4,4,9,6,5,9,6,10,8,7,1
+54,Office Supplies,EVEY VALUE," $1,872 ",5,5,3,9,7,5,4,5,2,1,4
+55,Office Supplies,SOLAR," $1,813 ",4,5,5,10,4,8,7,6,8,2,6
+56,Office Supplies,PITTSBURGH ," $1,777 ",9,1,7,10,7,4,2,4,1,9,3
+57,Office Supplies,PLOTTER TECH," $1,567 ",10,2,2,8,1,10,2,3,3,3,4
+58,Office Supplies,JUDKIS," $1,428 ",7,2,10,7,2,8,2,4,3,4,8
+59,Office Supplies,HARITAN ," $1,413 ",2,5,6,1,4,7,9,9,4,5,9
+60,Office Supplies,ONTA INC," $1,389 ",3,9,6,4,6,3,6,10,2,7,5
+61,Office Supplies,HEALTHCARE MANAGEMENT," $1,371 ",3,10,9,8,2,9,2,4,7,7,2
+62,Office Supplies,JONES DISTRIBUTOR," $1,321 ",5,3,8,6,10,4,9,9,9,9,2
+63,Office Supplies,SKYLINE ," $1,294 ",3,8,6,8,9,5,9,10,2,3,8
+64,Office Supplies,NEO," $1,155 ",7,1,5,2,7,6,1,5,2,2,9
+65,Office Supplies,VALERO COMPANY," $1,099 ",1,9,10,5,6,7,9,6,9,3,9
+66,Office Supplies,GREENERY," $1,054 ",4,6,3,1,4,10,5,1,8,8,3
+67,Office Supplies,ZEE SERVICE," $1,048 ",7,10,6,6,2,7,2,6,6,10,4
+68,Office Supplies,RKNAPP," $1,022 ",5,6,3,4,5,9,9,1,5,8,4
+69,Office Supplies,BRAIN PRINT, $992 ,6,8,6,4,7,9,2,7,4,3,10
+70,Office Supplies,GREEN BOX, $746 ,6,2,4,8,9,10,1,4,5,6,1
+71,Office Supplies,JOHNS SUPPLY, $722 ,10,1,3,5,5,3,8,6,9,6,1
+72,Office Supplies,PAYMENT ADJUSTMENT, $696 ,9,2,5,8,1,4,2,6,7,8,3
+73,Office Supplies,UNIBIN, $678 ,3,10,3,9,2,9,6,6,5,4,5
+74,Office Supplies,GONZALEZ, $654 ,1,3,1,5,8,7,4,8,3,6,8
+75,Office Supplies,ARC, $601 ,5,10,5,2,2,4,4,6,7,2,7
+1,Contingent Labor,MBI CREW," $18,425,169 ",5,8,6,7,7,9,9,9,1,9,4
+2,Contingent Labor,EK DATA," $9,282,431 ",4,8,8,7,9,6,9,2,10,7,6
+3,Contingent Labor,INCREDIBLE OUTSOURCING," $4,725,430 ",4,7,10,6,7,3,8,8,10,9,2
+4,Contingent Labor,INFO RESOURCES," $3,343,565 ",8,5,9,7,8,8,3,10,5,4,8
+5,Contingent Labor,MODE," $2,549,287 ",7,7,8,9,10,7,2,9,5,4,7
+6,Contingent Labor,MICROCODE," $2,079,285 ",5,6,2,6,2,8,7,1,7,1,9
+7,Contingent Labor,SOFT SPECIALTIES," $1,952,643 ",6,6,7,10,9,4,6,7,6,7,7
+8,Contingent Labor,PROM TECH," $1,614,016 ",7,7,10,1,9,6,5,7,7,8,6
+9,Contingent Labor,SPR," $1,430,862 ",10,5,7,8,9,2,1,9,10,6,6
+10,Contingent Labor,COGNIZANT SOLUTIONS," $1,202,096 ",5,1,8,5,5,3,6,4,9,2,4
+11,Contingent Labor,FLEXAGE," $266,956 ",9,9,9,6,4,8,4,4,4,6,5
+12,Contingent Labor,METASYS," $240,447 ",6,3,6,4,5,7,1,2,7,2,2
+13,Contingent Labor,ADVIZ," $222,138 ",5,2,9,3,8,1,7,7,5,4,9
+14,Contingent Labor,HARMAN," $219,994 ",7,1,9,4,2,2,9,7,6,5,7
+15,Contingent Labor,CULURE," $217,226 ",9,2,7,6,2,7,2,4,8,5,5
+16,Contingent Labor,XCHANG," $207,471 ",6,4,7,8,3,3,7,5,3,10,5
+17,Contingent Labor,EXCEL ," $180,009 ",8,7,9,10,2,6,6,4,2,5,4
+18,Contingent Labor,ADIA," $167,841 ",6,3,5,5,8,6,1,3,6,4,2
+19,Contingent Labor,BIWIS," $161,719 ",9,5,2,4,5,2,2,7,7,7,5
+20,Contingent Labor,GOLDEN," $153,262 ",8,6,3,5,9,1,2,4,5,4,9
+21,Contingent Labor,INFTECH," $146,031 ",8,4,2,6,2,3,7,4,2,3,5
+22,Contingent Labor,TEK-GLOBAL," $135,897 ",2,4,4,1,7,5,9,5,8,6,2
+23,Contingent Labor,LOGANBRIT," $132,977 ",4,7,10,8,4,9,9,5,3,3,7
+24,Contingent Labor,SYMBI," $120,549 ",7,9,9,1,1,2,10,2,3,9,6
+25,Contingent Labor,HYRAN," $96,821 ",8,6,7,1,1,5,6,6,1,10,1
+26,Contingent Labor,GEOCOMMUN," $94,882 ",3,6,2,10,4,9,4,7,9,2,9
+27,Contingent Labor,EXCEE," $76,219 ",2,10,7,6,3,4,7,4,4,1,7
+28,Contingent Labor,INTEGRA," $71,421 ",4,3,7,7,1,10,5,10,7,6,5
+29,Contingent Labor,SYLVAR," $60,966 ",3,5,8,7,7,10,4,1,5,5,5
+30,Contingent Labor,CLOUDWIC," $45,398 ",8,7,3,9,2,9,5,9,5,6,8
+31,Contingent Labor,KFORC," $42,651 ",9,6,9,9,9,4,2,1,4,9,10
+32,Contingent Labor,B TECHNOLOGY," $38,092 ",9,8,10,6,1,9,8,6,10,2,1
+33,Contingent Labor,COXUS," $35,111 ",8,3,8,4,7,5,10,8,4,1,9
+34,Contingent Labor,ESSEN," $34,801 ",8,2,4,9,9,7,1,5,10,5,5
+35,Contingent Labor,PMG," $33,792 ",4,7,9,7,4,6,5,7,4,8,1
+36,Contingent Labor,ISG INFORMATION ," $33,568 ",8,7,6,5,1,6,5,7,7,4,8
+37,Contingent Labor,SOLJIT," $27,545 ",3,6,10,10,2,8,2,6,7,3,5
+38,Contingent Labor,GEOSYNER," $22,707 ",4,9,2,1,3,3,2,7,3,6,5
+39,Contingent Labor,RAG COM," $22,461 ",7,2,10,6,6,9,7,1,7,3,4
+40,Contingent Labor,DELOIT BUSINESS," $19,117 ",10,9,6,8,9,3,5,6,3,3,5
+41,Contingent Labor,VAK SOFTWARE," $14,114 ",10,4,8,6,1,10,10,5,5,6,9
+42,Contingent Labor,MEDI," $11,985 ",8,8,8,9,7,7,1,6,3,2,3
+43,Contingent Labor,TRAUBE," $7,216 ",9,10,3,1,8,1,3,4,7,5,4
+44,Contingent Labor,FACTOR," $6,564 ",8,9,1,4,7,4,8,1,10,6,7
+45,Contingent Labor,TIERPOIN," $5,405 ",8,1,4,9,5,10,2,6,10,5,4
+46,Contingent Labor,TRANERFECT," $4,305 ",1,8,5,6,5,2,5,9,5,2,4
+47,Contingent Labor,RACSPACE," $3,751 ",1,2,5,1,4,2,4,5,3,3,6
+48,Contingent Labor,KTECH," $2,871 ",2,3,5,3,6,3,2,5,8,2,7
+49,Contingent Labor,EMTEC," $2,677 ",7,1,10,9,5,6,6,3,4,4,6
+50,Contingent Labor,POWELL ," $2,389 ",5,6,6,8,9,3,8,5,3,8,4
+51,Contingent Labor,KENMITH," $1,480 ",8,4,9,2,8,3,10,5,1,6,9
+52,Contingent Labor,TMD TERVICES," $1,432 ",9,6,7,10,4,7,7,1,4,8,7
+53,Contingent Labor,MOBY VIEW," $1,234 ",6,8,8,9,6,2,8,4,3,10,6
+54,Contingent Labor,UNIVERSITY OF DALLAS, $740 ,5,7,7,7,8,6,5,4,4,6,3
+55,Contingent Labor,MCVEIGH, $456 ,1,5,6,7,8,5,5,6,2,7,7
+56,Contingent Labor,NEURON SERVICES, $271 ,10,3,4,5,5,5,3,7,10,5,3
+57,Contingent Labor,FOLEY, $257 ,4,3,7,4,6,4,8,8,2,7,6
+1,Legal Services,AXIONG," $3,371,502 ",10,6,2,1,4,2,9,6,7,9,7
+2,Legal Services,RESMITH," $1,102,100 ",9,8,8,9,9,8,1,9,10,9,9
+3,Legal Services,ARNES & HORNBURG," $936,958 ",1,7,8,7,9,5,7,8,8,6,9
+4,Legal Services,LEWIS BOCKIUS," $822,345 ",9,6,8,8,8,10,10,10,9,8,5
+5,Legal Services,WED TRICE," $770,647 ",3,8,9,7,8,6,9,10,10,3,4
+6,Legal Services,COX CASTLE," $672,770 ",10,9,9,6,8,8,4,10,10,4,8
+7,Legal Services,SLATE MEAGHER," $396,488 ",2,10,10,9,8,10,1,9,8,2,8
+8,Legal Services,LITTLER," $392,813 ",3,8,9,8,10,5,5,9,8,7,8
+9,Legal Services,MCKENZIE," $385,638 ",2,10,10,5,8,4,5,10,10,6,7
+10,Legal Services,KILMER WALKER," $340,864 ",3,10,10,1,8,9,4,9,5,10,8
+11,Legal Services,ALSTON," $294,034 ",9,10,10,9,8,7,8,8,6,6,7
+12,Legal Services,GOMEN," $280,242 ",9,10,10,9,6,10,9,9,7,3,2
+13,Legal Services,LEGAL COST," $181,235 ",4,6,8,10,2,6,2,3,9,1,9
+14,Legal Services,DONELSON," $153,972 ",6,10,10,5,6,8,3,3,5,4,1
+15,Legal Services,COLLE," $127,849 ",10,4,5,7,7,4,3,10,10,1,5
+16,Legal Services,SCHHARDIN," $118,019 ",10,4,3,5,1,5,4,3,9,4,5
+17,Legal Services,CONNELL," $112,778 ",5,9,10,7,4,8,9,3,10,4,3
+18,Legal Services,KATTEN ROSENMAN," $108,954 ",9,9,6,6,3,10,5,3,6,8,5
+19,Legal Services,ALVIN BROWN," $106,115 ",7,10,4,10,6,1,8,10,7,4,5
+20,Legal Services,MAYNARD GALE," $102,222 ",10,2,6,6,4,7,9,10,1,2,10
+21,Legal Services,MORRIS MARTIN," $101,600 ",5,9,3,3,9,3,8,9,5,9,9
+22,Legal Services,CLAUSEN," $93,973 ",4,7,10,10,5,7,9,2,3,6,2
+23,Legal Services,LICHTEN," $87,395 ",4,6,6,7,5,2,10,1,5,5,7
+24,Legal Services,AKERMA," $80,037 ",10,9,10,1,4,7,6,9,6,9,3
+25,Legal Services,DEBOSKEY," $78,838 ",4,3,8,8,4,10,4,5,2,8,10
+26,Legal Services,SLOVACEK," $78,736 ",7,1,1,3,10,5,1,6,7,10,3
+27,Legal Services,FRESH TRUST," $76,710 ",6,5,7,4,5,6,6,5,5,10,5
+28,Legal Services,TROUTMAN," $69,261 ",6,7,2,3,1,8,7,1,10,9,2
+29,Legal Services,CEMARK," $69,193 ",4,7,9,8,2,2,6,3,10,7,5
+30,Legal Services,VISUAL LLC," $59,678 ",7,7,8,8,8,1,1,5,9,6,2
+31,Legal Services,BOWAN ," $59,227 ",9,7,4,6,3,1,4,3,9,8,8
+32,Legal Services,F AND H ," $58,137 ",6,9,5,4,6,6,3,2,6,8,10
+33,Legal Services,HART LLP," $56,013 ",10,5,9,5,6,3,5,1,10,3,1
+34,Legal Services,TRUSTEES ," $54,208 ",3,4,3,2,6,9,10,4,1,8,7
+35,Legal Services,LATHAM ," $53,866 ",6,8,3,3,6,5,5,2,7,7,2
+36,Legal Services,SRS CRESA ," $52,716 ",4,1,9,5,3,2,9,6,6,6,9
+37,Legal Services,DAVIS ," $49,564 ",8,6,10,2,8,10,10,7,8,5,6
+38,Legal Services,WELCH C," $46,386 ",8,6,8,4,5,5,1,7,6,10,4
+39,Legal Services,T PARTNERS," $46,169 ",9,9,2,5,9,9,8,10,5,9,2
+40,Legal Services,KRONISCH ," $44,389 ",6,5,6,1,4,4,3,9,5,9,5
+41,Legal Services,SEYFARTH ," $42,923 ",3,9,8,7,1,9,2,1,6,4,10
+42,Legal Services,ROTHSCHILD," $42,685 ",9,4,1,5,10,6,6,6,9,2,6
+43,Legal Services,HIRSCH ," $42,049 ",9,10,7,8,8,2,10,6,10,3,5
+44,Legal Services,WEITZEL ," $39,644 ",5,4,2,6,2,7,2,3,1,6,2
+45,Legal Services,FORD HARRISON," $36,403 ",6,3,2,9,3,5,10,8,4,5,8
+46,Legal Services,KNEPPERS ," $35,396 ",8,7,10,9,1,7,1,8,3,3,5
+47,Legal Services,BOSCO," $35,188 ",5,3,4,9,6,8,10,3,8,6,9
+48,Legal Services,COZEN ," $34,287 ",8,4,6,8,7,4,1,3,2,4,3
+49,Legal Services,HAZLEWOOD," $31,548 ",4,5,5,4,10,7,9,1,8,6,8
+50,Legal Services,GONZALES," $29,377 ",8,8,4,8,3,6,5,4,5,2,5
+51,Legal Services,COGNITION ," $27,740 ",3,9,4,6,9,3,2,6,10,3,3
+52,Legal Services,GUNSTER," $26,389 ",2,1,5,5,4,10,3,8,7,7,3
+53,Legal Services,L DANIELS," $23,295 ",8,10,3,8,7,9,7,4,6,6,4
+54,Legal Services,KALER GRIMES," $22,809 ",8,6,10,1,4,3,5,6,3,2,1
+55,Legal Services,AXIOM ," $21,994 ",8,10,3,7,9,2,3,10,3,1,9
+56,Legal Services,FARZAM," $21,836 ",7,9,8,8,3,7,6,10,7,6,3
+57,Legal Services,PRI," $21,268 ",3,1,1,9,8,2,4,2,2,4,8
+58,Legal Services,HAIGHT STEEL," $21,159 ",2,3,7,9,1,4,10,4,2,9,4
+59,Legal Services,KELLEYWARREN," $21,005 ",5,2,5,10,1,3,1,5,9,3,7
+60,Legal Services,LATHROP," $20,623 ",3,9,2,6,8,7,2,1,3,2,2
+61,Legal Services,EVANS LAW," $20,022 ",8,7,6,10,10,7,4,7,2,1,10
+62,Legal Services,FOERSTER," $19,107 ",5,9,1,2,4,5,5,6,3,2,4
+63,Legal Services,HAYNES," $18,969 ",7,2,3,7,4,8,2,4,2,6,8
+64,Legal Services,LOTZ GIANNUARIO," $18,217 ",3,8,7,8,2,7,3,6,8,9,7
+65,Legal Services,EMOND," $10,763 ",8,5,7,6,2,6,9,8,9,6,1
+66,Legal Services,BCF LAW," $10,637 ",5,2,3,2,4,1,5,8,2,4,7
+67,Legal Services,JAMS INC," $10,560 ",5,8,6,7,4,9,4,3,3,3,1
+68,Legal Services,OLAGUES," $10,228 ",6,6,8,4,10,5,4,1,7,7,6
+69,Legal Services,CORBIN AND LEVER," $10,224 ",6,10,5,2,9,5,6,6,6,7,7
+70,Legal Services,HUNTON," $8,802 ",7,5,1,3,5,4,8,3,1,3,2
+71,Legal Services,ARGUS ," $8,759 ",5,7,6,7,8,2,2,10,8,6,7
+72,Legal Services,NATIONAL PLANNING," $8,262 ",3,4,7,1,6,7,2,6,7,5,1
+73,Legal Services,POLSINELLI ," $7,679 ",5,2,4,2,1,6,6,1,7,7,9
+74,Legal Services,GRAFF," $7,677 ",2,3,6,2,1,10,10,4,4,2,4
+75,Legal Services,KOLLER," $7,568 ",6,2,10,3,10,6,6,5,8,5,6
+76,Legal Services,IAN BLANT," $7,476 ",7,4,9,3,9,6,9,9,2,9,7
+77,Legal Services,AMIR KIA," $7,129 ",5,10,4,4,5,7,8,7,4,9,10
+78,Legal Services,CARLTON," $7,084 ",3,7,1,4,9,5,8,5,2,7,6
+79,Legal Services,HENDERSON," $6,285 ",8,9,7,4,10,1,4,2,7,7,10
+80,Legal Services,CORE LEGAL," $6,035 ",2,4,6,5,9,10,2,2,8,7,1
+81,Legal Services,DUNBAR," $5,902 ",5,8,8,3,3,9,1,1,5,8,9
+82,Legal Services,CUNINGHAM," $5,114 ",9,4,10,3,1,10,1,1,10,3,4
+83,Legal Services,MINORITY ASSOCIATION," $5,114 ",3,1,9,10,9,5,3,5,1,10,5
+84,Legal Services,OF DELAWARE," $5,038 ",3,6,4,2,3,2,6,4,10,3,2
+85,Legal Services,PUGH JOHNSON," $4,993 ",4,7,8,7,6,2,8,2,9,3,1
+86,Legal Services,BADLEY SPELLMAN," $4,907 ",2,2,4,5,5,4,9,5,6,1,8
+87,Legal Services,HOGAN LLP," $4,809 ",7,2,7,1,5,5,7,1,8,9,6
+88,Legal Services,KRAVITZ SCHNITZER," $4,735 ",5,10,1,4,1,3,9,4,3,3,1
+89,Legal Services,LEXISNEXIS," $4,706 ",3,7,8,9,8,1,8,8,3,1,5
+90,Legal Services,NOLLAND," $3,324 ",7,7,7,4,3,2,8,1,2,6,10
+91,Legal Services,WOLCOTT," $3,221 ",5,8,9,1,3,6,8,1,4,5,7
+92,Legal Services,BISHOP AND SHERMAN," $3,103 ",9,6,7,7,5,5,6,1,6,1,7
+93,Legal Services,ANI," $3,063 ",2,6,3,6,5,2,4,1,3,4,4
+94,Legal Services,YACOBONI," $2,914 ",2,2,9,4,10,6,4,2,1,9,2
+95,Legal Services,H WILSEY," $2,914 ",6,5,8,5,10,9,7,1,8,4,5
+96,Legal Services,S BURGESS," $2,914 ",2,6,2,4,9,2,4,10,3,10,8
+97,Legal Services,A CAZA," $2,914 ",3,4,8,8,2,5,5,4,3,4,5
+98,Legal Services,KENTUCKY APPRAISERS," $2,610 ",3,3,9,7,9,7,5,1,4,8,7
+99,Legal Services,PARISE ASSOCIATES," $2,445 ",7,3,3,8,10,8,6,5,5,6,4
+100,Legal Services,BUREAU OF APPRAISERS," $2,418 ",2,5,2,2,8,8,8,5,5,3,1
+101,Legal Services,N RIVERS," $2,406 ",7,2,6,2,2,5,2,7,6,8,6
+102,Legal Services,BRUCH OFFICES," $2,291 ",4,5,10,6,7,6,10,2,4,2,2
+103,Legal Services,KPMG," $2,122 ",7,3,3,10,2,9,10,10,1,2,10
+104,Legal Services,LAKE LLC," $2,045 ",9,5,2,10,4,3,9,5,5,2,9
+105,Legal Services,D WILSON," $2,045 ",5,8,3,4,8,2,4,8,3,4,8
+106,Legal Services,SPARKS LEVY," $2,021 ",7,7,10,5,9,1,7,5,7,4,9
+107,Legal Services,WOOLF," $1,800 ",2,5,2,4,2,3,6,4,3,2,2
+108,Legal Services,JAMES F ," $1,779 ",6,9,7,2,1,7,4,2,1,5,3
+109,Legal Services,AIKINS," $1,758 ",4,5,7,1,1,10,10,6,7,3,4
+110,Legal Services,LAFLEUR HENDERSON, $454 ,4,8,1,1,5,2,5,5,8,9,5
+111,Legal Services,NAILAH K BYRD, $375 ,3,10,1,4,9,1,10,8,5,5,10
+112,Legal Services,OF VIRGINIA, $368 ,7,7,4,10,7,8,8,5,2,6,5
+113,Legal Services,FACILITY SERVICES, $192 ,6,6,8,2,7,7,3,2,2,3,3
+114,Legal Services,NATHANSON, $152 ,1,5,5,2,4,3,8,1,8,1,2
+115,Legal Services,FARABOW GARRETT, $149 ,7,3,10,10,2,3,7,1,8,9,7
+116,Legal Services,PATRICK, $143 ,7,4,4,6,2,6,4,8,4,6,7
+,,,,,,,,,,,,,,
